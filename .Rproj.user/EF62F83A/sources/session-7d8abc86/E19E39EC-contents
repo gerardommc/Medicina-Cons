@@ -1,0 +1,21 @@
+---
+title: "Temas selectos en ecología: Medicina de la Conservación (Presentaciones)"
+description: "Licenciatura en Ecología"
+author: "Gerardo Martín"
+output:
+   prettydoc::html_pretty:
+      theme: caiman
+      highlight: github
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+1. [El sistema inmune](Inmuno.pdf)
+
+2. [Enfermedades infecciosas](Infecciosas.pdf)
+
+3. [Enfermedades emergentes](Emergentes.pdf)
+
+4. [Zoonosis y conservación](Zoonosis.pdf)
