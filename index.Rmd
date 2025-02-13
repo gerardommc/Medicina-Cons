@@ -14,13 +14,19 @@ knitr::opts_chunk$set(echo = TRUE)
 
 1. El sistema inmune
 
-  - [Definifiones, tipos de inmunidad e inmunogénesis](Inmuno_I.pdf)
+  - [Definiciones, tipos de inmunidad e inmunogénesis](Inmuno_I.pdf)
   
   - [Tipos de anticuerpos y órganos linfoides](Inmuno_II.pdf)
   
   - [Patogénesis y aplicaciones](Inmuno_III.pdf)
 
 2. [Enfermedades infecciosas](Infecciosas.pdf)
+
+  - [Lectura de Luby y Gurley (2022)](Articulos/Luby-HeniV-Epi.pdf)
+  
+  - [Lectura de Wayne y Bolker (2015)](https://books.google.com.mx/books?id=C766BwAAQBAJ&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false)
+  
+  - [Ejemplo de cómic](Figuras/Ejemplo-comic.png)
 
 3. [Enfermedades emergentes](Emergentes.pdf)
 
