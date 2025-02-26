@@ -27,7 +27,15 @@ knitr::opts_chunk$set(echo = TRUE)
   - [Lectura de Wayne y Bolker (2015)](https://books.google.com.mx/books?id=C766BwAAQBAJ&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false)
   
   - [Ejemplo de cómic](Figuras/Ejemplo-comic.png)
+  
+3. [Epidemiología básica](Epidemiologia-basica.pdf)
 
-3. [Enfermedades emergentes](Emergentes.pdf)
+4. [Enfermedades emergentes](Emergentes.pdf)
 
-4. [Zoonosis y conservación](Zoonosis.pdf)
+  -[Lectura de Daszak et al. (2000)](Articulos/Daszak2000-EmergingIDs.pdf)
+  
+  -[Lectura de Jones et al. (2008)](Articulos/Jones2008-GlobalEmergingIDs.pdf)
+  
+5. [Enfermedades transmitidas por vectores](Vectores.pdf)
+
+6. [Zoonosis y conservación](Zoonosis.pdf)
