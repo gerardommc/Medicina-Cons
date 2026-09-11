@@ -1,0 +1,36 @@
+Trabajo final
+
+Cada equipo realizará una presentación sobre la historia, descrubrimiento y proceso de emergencia de una de las enfermedades descritas en el libro "Spillover, animal infections and the next human pandemic" de David Quammen. Los capítulos seleccionados son:
+
+- Thirteen Gorillas (Ebola)
+- Dinner at the rat farm (SARS)
+- Celestial hosts (Nipah virus)
+- The Chimp and the river (VIH-SIDA)
+
+Cada una de las presentaciones debe cerrar con una interpretación del proceso de emergencia con base en el artículo "Pathways to zoonotic spillover" de Raina Plowright.
+
+Las presentaciones deberán estar limitadas a 10 minutos, con cinco minutos para preguntas, y la interpretación del proceso de emergencia de cada enfermedad debe realizarse en no menos de dos minutos. Las presentaciones deben de incluir la menor cantidad posible de texto, y deben de ser explicadas a detalle en no menos de 30 segundos por diapositiva.
+
+La conformación de los equipos y el tema que corresponde a cada uno fue realizada mediante un script de R que aleatoriza el orden de la lista de asistencia y se proporciona en el archivo "Asignacion-tarea-final.csv". El equipo para la historia de VIH-SIDA es el que tiene más integrantes porque corresponde al capítulo más largo.
+
+Para las figuras de la presentación recomiendo las siguientes fuentes con licencias CC:
+
+https://www.svgrepo.com/
+https://www.phylopic.org/
+https://unsplash.com/
+https://www.wikipedia.org/
+
+que son las que uso rutinariamente para mis presentaciones, y por conveniencia recomiendo que descarguen las imágenes en formato .png, salvo que sepan editar SVGs y utilicen LibreOffice para las presentaciones.
+Otro trabajo de EIE
+
+El grupo se dividirá en equipos de 3-4 integrantes, para desarrollar una infografía que explique el artículo que les fue asignado. Cada infografía debe tener:
+
+    Una explicación de los resultados principales, es decir qué se aprendió sobre las enfermedades infecciosas en ese trabajo
+    Una explicación de cómo se realizó el trabajo
+    Una lista de las posibles limitaciones
+
+ Las infografías se presentarán frente al grupo por uno ó varios de los integrantes de cada equipo en un tiempo máximo de 10 min, con 5 min de preguntas cada una. Al finalizar las presentaciones, tendremos una discusión grupal para obtener una explicación grupal sobre:
+
+1. Causas generales por las que existen brotes de enfermedades emergentes
+2. Efectos de los componentes abióticos sobre  la emergencia de enfermedades
+3. Efectos de los componentes bióticos (interacciones intra e interespecíficas) que lelvan a la emergencia de enfermedades
